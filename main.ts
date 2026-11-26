@@ -7,4 +7,4 @@ if (!outDir) {
 }
 
 mkdirSync(outDir, { recursive: true });
-writeFileSync(join(outDir, "entry.txt"), "Goldilocks", "utf8");
+writeFileSync(join(outDir, "entry.txt"), "Homebody", "utf8");
